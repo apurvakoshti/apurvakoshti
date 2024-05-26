@@ -16,9 +16,11 @@ Hello! I'm Apurva Koshti, a passionate software developer with a keen interest i
   <a href="https://twitter.com/apurva_koshti">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter" width="40" height="40"/>
   </a>
+  <br>
   <a href="https://instagram.com/apurva_koshti">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/apurva-koshti/">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
