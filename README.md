@@ -5,12 +5,6 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love watching anime, sci-fi series and learning about tech.
 
-# Welcome to My GitHub Profile!
-
-## Introduction
-
-Hello! I'm Apurva Koshti, a passionate software developer with a keen interest in DSA (Java), Web Development, Open Source and various other technologies. 
-
 ## Connect with me:
 <p>
   <a href="https://twitter.com/apurva_koshti">
