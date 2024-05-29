@@ -1,5 +1,5 @@
 <p align="center">
-<img src="profile.jpg" alt="Sample Logo" width="500" height="400" />
+<img src="profile.jpg" alt="Sample Logo" width="550" height="400" />
 </p>
 
 - 👋 Hi, I’m Apurva Koshti, fourth year engineering student in Information Technology at Dr. D.Y. Patil Institute of Technology, Pimpri, Pune.
