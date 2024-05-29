@@ -1,4 +1,4 @@
-![Photo](photo.jpg)
+![Photo](profile.jpg)
 
 - 👋 Hi, I’m Apurva Koshti, fourth year engineering student in Information Technology at Dr. D.Y. Patil Institute of Technology, Pimpri, Pune.
 - 👀 I’m interested in open source and new AI technologies.
@@ -6,6 +6,8 @@
 - 📫 How to reach me apurvakoshti8@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love watching anime, sci-fi series and learning about tech.
+- 
+![Profile Views](https://komarev.com/ghpvc/?username=apurvakoshti)
 
 ## Connect with me:
 <p>
@@ -39,5 +41,5 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=apurvakoshti)
+
 
