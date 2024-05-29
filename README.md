@@ -1,4 +1,4 @@
-<img src="profile.jpg" alt="Profile Image" height="350 "width="300"/>
+<img src="profile.jpg" alt="Profile Image" height="350" "width="300"/>
 
 - 👋 Hi, I’m Apurva Koshti, fourth year engineering student in Information Technology at Dr. D.Y. Patil Institute of Technology, Pimpri, Pune.
 - 👀 I’m interested in open source and new AI technologies.
