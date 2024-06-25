@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Apurva Koshti</h1>
 <h3 align="center">Software Developer | React | Node.js| MERN Stack </h3>
 
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/apurvakoshti)
+
+- 📝 I am trying to write regularly  articles on [https://medium.com/@purvakoshti8](https://medium.com/@apurvakoshti8)
+
+- 💬 Ask me about **JavaScript, MongoDB, Express.js, React.js, Node.js,**
+
+- 📫 How to reach me **apurvakoshti8@gmail.com**
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/apurva-koshti" target="_blank">
@@ -15,12 +26,6 @@
   <a href="https://leetcode.com/u/apurva_koshti/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/apurva_koshti" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter" width="40" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:apurvakoshti8@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" width="40" height="40" />
-  </a>
 </p>
 
 
