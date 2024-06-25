@@ -1,17 +1,26 @@
-- 👋 Hi, I’m Apurva Koshti, fourth year engineering student in Information Technology at Dr. D.Y. Patil Institute of Technology, Pimpri, Pune.
-- 👀 I’m interested in open source and new AI technologies.
-- 🌱 I’m currently learning DSA, Web Development , Cloud Computing and other technolgies.
-- 📫 How to reach me apurvakoshti8@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I love watching anime, sci-fi series and learning about tech.
+<h1 align="center">Hi 👋, I'm Apurva Koshti</h1>
+<h3 align="center">Software Developer | React | Node.js| MERN Stack </h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=apurvakoshti)
+<img src="https://raw.githubusercontent.com/necm1/necm1/output/snake.svg" alt="Snake animation" />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/apurva-koshti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurvakoshti" height="30" width="40" /></a>
+<a href="https://instagram.com/apurva_koshti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apurvakoshti" height="30" width="40" /></a>
+<a href="https://medium.com/@apurvakoshti8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@purvakoshti8" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/apurva_koshti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apurvakoshti" height="30" width="40" /></a>
+<a href="https://twitter.com/apurva_koshti">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+<a href="mailto:apurvakoshti8@gmail.com">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
+
 
 ## Connect with me:
 <p>
-  <a href="https://twitter.com/apurva_koshti">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter" width="40" height="40"/>
-  </a>
+  
   <a href="https://instagram.com/apurva_koshti">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
@@ -19,9 +28,7 @@
   <a href="https://www.linkedin.com/in/apurva-koshti/">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:apurvakoshti8@gmail.com">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" width="40" height="40"/>
-  </a>
+  
 </p>
 
 ## Languages and Tools:
