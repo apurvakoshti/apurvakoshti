@@ -54,20 +54,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </div>
 
-<style>
-  .icons-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px; /* Adjusts the spacing between icons */
-  }
-  .icons-container a {
-    display: flex;
-    align-items: center;
-  }
-</style>
-
-
-
 
   
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurvakoshti&show_icons=true&locale=en&layout=compact" alt="aniketghavte" /></p>
