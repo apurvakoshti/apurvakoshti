@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/apurvakoshti).
 
-- 📝 I am trying to write regularly  articles on [https://medium.com/@apurvakoshti8](https://medium.com/@apurvakoshti8).
-
 - 💬 Ask me about **JavaScript, MongoDB, Express.js, React.js, Node.js,**.
 
 - 📫 How to reach me **apurvakoshti8@gmail.com**.
